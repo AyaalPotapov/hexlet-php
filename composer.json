@@ -1,0 +1,11 @@
+{
+    "name": "ayaal/hexlet-php",
+    "authors": [
+        {
+            "name": "AyaalPotapov",
+            "email": "ayaal.potapov@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
